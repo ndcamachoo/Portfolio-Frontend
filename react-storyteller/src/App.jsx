@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <header>
-        <a href="https://github.com/ndcamachoo/Porfolio-Frontend/react-storyteller"><img
+        <a href="https://github.com/ndcamachoo/Portfolio-Frontend/tree/main/react-storyteller"><img
           className="logo"
           alt="logo"
           src="https://i.ibb.co/1vZJxZ1/Storyteller-fronty-logos-transparent.png"
